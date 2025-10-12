@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Letters Combinations", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Lucky Numbers", "03. Lucky Numbers\03. Lucky Numbers.csproj", "{61A259FF-E77C-41A2-8677-781CBA46312A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Car Number", "04. Car Number\04. Car Number.csproj", "{2FC99542-F0C8-4355-A838-63AB56BCD72A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{61A259FF-E77C-41A2-8677-781CBA46312A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61A259FF-E77C-41A2-8677-781CBA46312A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61A259FF-E77C-41A2-8677-781CBA46312A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC99542-F0C8-4355-A838-63AB56BCD72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC99542-F0C8-4355-A838-63AB56BCD72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC99542-F0C8-4355-A838-63AB56BCD72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC99542-F0C8-4355-A838-63AB56BCD72A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
