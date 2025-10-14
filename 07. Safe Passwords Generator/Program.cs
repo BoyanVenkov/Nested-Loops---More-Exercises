@@ -1,0 +1,29 @@
+﻿int a = int.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine());
+int maxPasswords = int.Parse(Console.ReadLine());
+
+int A = 35;
+int B = 64;
+int count = 0;
+
+for (int x = 1; x <= a; x++)
+{
+    for (int y = 1; y <= b; y++)
+    {
+        Console.Write($"{(char)A}{(char)B}{x}{y}{(char)B}{(char)A}|");
+
+        count++;
+
+        if (count >= maxPasswords)
+        {
+            Console.WriteLine();
+            return;
+        }
+
+        A++;
+        B++;
+        if (A > 55) A = 35;
+        if (B > 96) B = 64;
+    }
+}
+Console.WriteLine();
