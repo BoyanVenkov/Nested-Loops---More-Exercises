@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Secret Door's Lock", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Sum of Two Numbers", "09. Sum of Two Numbers\09. Sum of Two Numbers.csproj", "{A61D98FB-6602-400C-A3D8-3E97B3A1D85F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Profit", "10. Profit\10. Profit.csproj", "{CA815346-FF8B-400A-AA25-1C51174CB02E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A61D98FB-6602-400C-A3D8-3E97B3A1D85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A61D98FB-6602-400C-A3D8-3E97B3A1D85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A61D98FB-6602-400C-A3D8-3E97B3A1D85F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA815346-FF8B-400A-AA25-1C51174CB02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA815346-FF8B-400A-AA25-1C51174CB02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA815346-FF8B-400A-AA25-1C51174CB02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA815346-FF8B-400A-AA25-1C51174CB02E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
