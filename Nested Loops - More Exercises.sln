@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Profit", "10. Profit\10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. HappyCat Parking", "11. HappyCat Parking\11. HappyCat Parking.csproj", "{38062EC0-0E1D-4AA4-9699-D6F1EE46FFD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. The song of the wheels", "12. The song of the wheels\12. The song of the wheels.csproj", "{CF679C1D-184E-4068-A982-5DE9D5C4F895}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{38062EC0-0E1D-4AA4-9699-D6F1EE46FFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38062EC0-0E1D-4AA4-9699-D6F1EE46FFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38062EC0-0E1D-4AA4-9699-D6F1EE46FFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF679C1D-184E-4068-A982-5DE9D5C4F895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF679C1D-184E-4068-A982-5DE9D5C4F895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF679C1D-184E-4068-A982-5DE9D5C4F895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF679C1D-184E-4068-A982-5DE9D5C4F895}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
