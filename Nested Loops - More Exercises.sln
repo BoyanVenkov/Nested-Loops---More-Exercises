@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. The song of the wheels"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Prime Pairs", "13. Prime Pairs\13. Prime Pairs.csproj", "{568A04A7-ABE4-4E27-9AF7-004771E79ACB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Password Generator", "14. Password Generator\14. Password Generator.csproj", "{07FCE069-0F0E-4396-B433-5B80E750A0E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{568A04A7-ABE4-4E27-9AF7-004771E79ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{568A04A7-ABE4-4E27-9AF7-004771E79ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{568A04A7-ABE4-4E27-9AF7-004771E79ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07FCE069-0F0E-4396-B433-5B80E750A0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FCE069-0F0E-4396-B433-5B80E750A0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FCE069-0F0E-4396-B433-5B80E750A0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FCE069-0F0E-4396-B433-5B80E750A0E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
