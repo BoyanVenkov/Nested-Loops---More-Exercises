@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. HappyCat Parking", "11.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. The song of the wheels", "12. The song of the wheels\12. The song of the wheels.csproj", "{CF679C1D-184E-4068-A982-5DE9D5C4F895}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Prime Pairs", "13. Prime Pairs\13. Prime Pairs.csproj", "{568A04A7-ABE4-4E27-9AF7-004771E79ACB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{CF679C1D-184E-4068-A982-5DE9D5C4F895}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF679C1D-184E-4068-A982-5DE9D5C4F895}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF679C1D-184E-4068-A982-5DE9D5C4F895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568A04A7-ABE4-4E27-9AF7-004771E79ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568A04A7-ABE4-4E27-9AF7-004771E79ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568A04A7-ABE4-4E27-9AF7-004771E79ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568A04A7-ABE4-4E27-9AF7-004771E79ACB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
